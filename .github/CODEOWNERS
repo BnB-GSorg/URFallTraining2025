@@ -1,0 +1,6 @@
+# CODEOWNERS file
+# This file defines who must approve changes to the repository
+# Learn more: https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/about-code-owners
+
+# All files in the repository require approval from the repository owner
+* @BnB-GSorg
